@@ -1,0 +1,25 @@
+body {
+	  text-align: center;
+	  background-color: cornsilk;
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+    
+	.image-section {
+	display: flx;
+justify-content: space-center;
+        
+	}
+
+	.section-style {
+	marginright: 25px;
+	  marginleft: 25px;
+	backColor: pink;
+	}
+img{
+    height: 500px;
+    width:500px;
+}
